@@ -7,15 +7,11 @@ statment & execute to any SQL support database. I just mapped  Division, Distric
    - SELECT * FROM `geocode` WHERE `hardcode` = 'DIV' 
    -
 You will find Divison
-    id	hardcode	softcode	name	bn_name	url	actflg	createdate
-    1 	DIV 	CHA 	Chattagram 	চট্টগ্রাম 	www.chittagongdiv.gov.bd 	Y 	2022-03-01 00:22:34
-	2 	DIV 	RAJ 	Rajshahi 	রাজশাহী 	www.rajshahidiv.gov.bd 	Y 	2022-03-01 00:22:34
-	3 	DIV 	KHU 	Khulna 	খুলনা 	www.khulnadiv.gov.bd 	Y 	2022-03-01 00:22:34
-	4 	DIV 	BAR 	Barisal 	বরিশাল 	www.barisaldiv.gov.bd 	Y 	2022-03-01 00:22:34
-	5 	DIV 	SYL 	Sylhet 	সিলেট 	www.sylhetdiv.gov.bd 	Y 	2022-03-01 00:22:34
-	6 	DIV 	DHA 	Dhaka 	ঢাকা 	www.dhakadiv.gov.bd 	Y 	2022-03-01 00:22:34
-	7 	DIV 	RAN 	Rangpur 	রংপুর 	www.rangpurdiv.gov.bd 	Y 	2022-03-01 00:22:34
-	8 	DIV 	MYM 	Mymensingh 	ময়মনসিংহ 	www.mymensinghdiv.gov.bd 	Y 	2022-03-01 00:22:
+    id	hardcode	softcode	name	 actflg	createdate
+    
+    1 	DIV 	CHA 	Chattagram 	চট্টগ্রাম 	Y 	2022-03-01 00:22:34
+    2 	DIV 	RAJ 	Rajshahi         রাজশাহী    Y 	  2022-03-01 00:22:34
+	
 	
 2. GET DISTRICT JUST USE Bellow QUERY:
 
