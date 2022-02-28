@@ -37,11 +37,16 @@ You will find all Divisons like bellow
 	
 	2 	CHA 	FENI 	Feni 	        ফেনী 	     Y   	2022-03-01 00:27:12
 	
+	
+	
 	NOTE: softcode column will be hard code value in query like
 	
 	divison softcode will be  --> district hard code value
+	
 	district softcode will be  --> upzila hard code value
+	
 	upzila softcode will be  --> union hard code value
+	
 	
 	
 3. GET UPZILLA JUST USE Bellow QUERY:
