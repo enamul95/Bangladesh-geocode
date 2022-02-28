@@ -29,6 +29,7 @@ You will find all Divisons like bellow
 	or etc...
 	
 	output:
+	
 	id	hardcode	softcode	name	actflg	createdate 	
 	9 	CHA 	COMI 	Comilla 	কুমিল্লা 	Y 	2022-03-01 00:27:12
 	10 	CHA 	FENI 	Feni 	    ফেনী 	             Y 	2022-03-01 00:27:12
