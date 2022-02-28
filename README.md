@@ -33,8 +33,8 @@ You will find all Divisons like bellow
 	
 	id	hardcode	softcode	name	actflg	createdate 	
 	
-	9 	CHA 	COMI 	Comilla 	কুমিল্লা 	Y 2022-03-01 00:27:12
-	10 	CHA 	FENI 	Feni 	        ফেনী 	     Y 	2022-03-01 00:27:12
+	1 	CHA 	COMI 	Comilla 	কুমিল্লা 	Y         2022-03-01 00:27:12
+	2 	CHA 	FENI 	Feni 	        ফেনী 	     Y   	2022-03-01 00:27:12
 	
 	NOTE: softcode column will be hard code value in query like
 	
