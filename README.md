@@ -4,11 +4,12 @@ Division, District, Upazila and, Union level fully mapped only one table MySQL,O
 statment & execute to any SQL support database. I just mapped  Division, District, Upazila and, Union in a signle table.
 
  1. GET DIVISION JUST USE Bellow QUERY:
-   - SELECT * FROM `geocode` WHERE `hardcode` = 'DIV' 
+ 
+   SELECT * FROM `geocode` WHERE `hardcode` = 'DIV' 
    -
-You will find Divison
+You will find all Divisons like bellow
+
     id	hardcode	softcode	name	 actflg	createdate
-    
     1 	DIV 	CHA 	Chattagram 	চট্টগ্রাম 	Y 	2022-03-01 00:22:34
     2 	DIV 	RAJ 	Rajshahi         রাজশাহী    Y 	  2022-03-01 00:22:34
 	
