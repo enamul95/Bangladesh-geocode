@@ -1,9 +1,9 @@
-# Bangladesh-geocode
+#  Bangladesh-geocode
 
 Division, District, Upazila and, Union level fully mapped only one table MySQL,ORACLE etc. You just import the table or copy the insert 
 statment & execute to any SQL support database. I just mapped  Division, District, Upazila and, Union in a signle table.
 
- 1. GET DIVISION JUST USE Bellow QUERY:
+# 1. GET DIVISION JUST USE Bellow QUERY:
  
    SELECT * FROM `geocode` WHERE `hardcode` = 'DIV' 
    -
@@ -14,7 +14,7 @@ You will find all Divisons like bellow
     2 	DIV 	RAJ 	Rajshahi         রাজশাহী    Y 	  2022-03-01 00:22:34
 	
 	
-2. GET DISTRICT JUST USE Bellow QUERY:
+# 2. GET DISTRICT JUST USE Bellow QUERY:
 
  
        SELECT * FROM `geocode` WHERE `hardcode` = <selected soft soft code of diviosn> or select drop down & add softcode value to execute query
@@ -47,11 +47,11 @@ You will find all Divisons like bellow
 	
 	
 	
-3. GET UPZILLA JUST USE Bellow QUERY:
-4. 
+# 3. GET UPZILLA JUST USE Bellow QUERY:
+
 	-SELECT * FROM `geocode` WHERE `hardcode` = 'COMI' or <selected drop down softcode of district>
 
-4. GET Union JUST USE Bellow QUERY:
+# 4. GET Union JUST USE Bellow QUERY:
 	
 	-SELECT * FROM `geocode` WHERE `hardcode` = 'DEBUZ' or  <selected drop down softcode of upzilla>
 	
